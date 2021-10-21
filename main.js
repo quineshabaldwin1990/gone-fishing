@@ -10,3 +10,6 @@ console.log(chalk.blue.bold("You've gone fishing! Try to maximize the value of y
     "\n You can fish for six hours (till 12:00pm) and can catch at most 10 lbs of fish."));
 
 console.log(chalk.red("========================================================================"));
+
+// Stroing all fish value
+let allFishes = {};
